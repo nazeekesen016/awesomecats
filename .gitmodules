@@ -1,0 +1,3 @@
+[submodule "awesomecats"]
+	path = awesomecats
+	url = git@github.com:nazeekesen016/awesomecats.git
